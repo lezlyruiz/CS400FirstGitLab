@@ -1,5 +1,9 @@
 /*
  * Test the use of the Color method
+ * Lezly Ruiz
+ * lkruiz2@wisc.edu
+ * lezlyruiz - github
+ * lezly - cs account
  */
 import java.util.*;
 

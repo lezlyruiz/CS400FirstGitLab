@@ -1,5 +1,9 @@
 /*
  *	Color class
+ *	Lezly Ruiz
+ *	lkruiz2@wisc.edu
+ *	lezlyruiz - github
+ *	lezly - cs username
  */
 public class Color{
 	private String color;
